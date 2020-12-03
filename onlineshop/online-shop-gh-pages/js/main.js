@@ -9,7 +9,6 @@ function btnClick() {
         inputSearch.classList.toggle('active-input');
         inputSearch.classList.toggle('input');
         btnSearch.classList.add('search-button-active');
- 
 }
 
 function scrollTo(to, duration = 700) {

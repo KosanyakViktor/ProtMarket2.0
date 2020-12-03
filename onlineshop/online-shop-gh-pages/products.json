@@ -3,12 +3,13 @@
         "id": "1",
         "title": "100% Whey Gold Standart",
         "image": "stowhey.jpg",
-        "description": "Визнаний лідер серед сироваткових протеїнів"
+        "description": "Визнаний лідер серед сироваткових протеїнів",
+        "price": 976.99
     },
     {
         "id": "2",
         "title": "Yum Yum Whey",
-        "image": "Yum Yum Whey.jpg",
+        "image": "yumyumwhey.jpg",
         "description": "Протеїн Yum Yum Whey це сироватковий протеїн з 68% -ним вмістом білка розроблений спеціально для жінок.",
         "price": 780.99
     },

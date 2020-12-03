@@ -12,4 +12,4 @@ function showAlert(message, success = true) {
   setTimeout(() => {
     $('.alert').alert('close');
   }, 2000);
-}
+ } 
